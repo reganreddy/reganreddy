@@ -1,4 +1,4 @@
-<h1>Hi, I'm Regan! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Regan Reddy! <br/><a href="https://github.com/reganreddy">Learner</a>, <a href="https://www.linkedin.com/in/regan-tan-a68840154/">Cybersecurity Professional</a>, Apisiring Red Teamer.
 
 <h2>👨‍💻 Projects:</h2>
 
